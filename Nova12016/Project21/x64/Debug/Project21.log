@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+C:\Users\Utilizador\source\repos\Project21\Project21\FileName.cpp(1,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+C:\Users\Utilizador\source\repos\Project21\Project21\FileName.cpp(2,10): warning C4067: tokens inesperados após diretiva de pré-processador - esperado um newline
+  Project21.vcxproj -> C:\Users\Utilizador\source\repos\Project21\x64\Debug\Project21.exe
